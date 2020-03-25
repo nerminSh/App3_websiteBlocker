@@ -1,0 +1,7 @@
+App extension is .pyw
+
+1.Go to "Task Scheduler"
+2.Create a Task...
+3.Run first highest privalges
+4.New Triggers - At Startup
+5.New Action - Start program

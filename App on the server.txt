@@ -1,0 +1,10 @@
+1. Sign up for a free account at https://www.pythonanywhere.com.
+
+2. Go to your Dashboard, Files, Upload a File,
+   and upload the Python file you want to schedule for execution.
+
+3. Go to Tasks and set the time of the day you want your script to be executed
+   and type in the name of the Python file you  uploaded (e.g., myscript.py).
+   Note that the time you enter should be in UTC.
+
+4. Click the Create button and you’re done.
